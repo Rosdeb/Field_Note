@@ -44,7 +44,7 @@ dependencies:
   path_provider: ^2.1.6
   flutter_bloc: ^9.1.1
   equatable: ^3.0.0
-  flutter_dotenv: ^6.0.1
+  flutter_dotenv: ^6.0.2
 
 dev_dependencies:
   flutter_test:
